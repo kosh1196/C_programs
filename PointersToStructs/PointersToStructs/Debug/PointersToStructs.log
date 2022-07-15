@@ -1,0 +1,3 @@
+﻿  main.c
+D:\Dropbox\Coursera Comp Think\4 File IO\Module 4 Pointers\Lesson 1 Pointers\Lecture Code\4 1 7 Visual Studio Final Code\PointersToStructs\PointersToStructs\main.c(42,30): warning C4305:  '=': truncation from 'double' to 'float'
+  PointersToStructs.vcxproj -> D:\Dropbox\Coursera Comp Think\4 File IO\Module 4 Pointers\Lesson 1 Pointers\Lecture Code\4 1 7 Visual Studio Final Code\PointersToStructs\Debug\PointersToStructs.exe
