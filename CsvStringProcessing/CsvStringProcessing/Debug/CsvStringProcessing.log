@@ -1,0 +1,4 @@
+﻿  main.c
+D:\Dropbox\Coursera Comp Think\3 Functions\Module 2 Strings\Lesson 1 Strings\Lecture Code\2 1 7 Visual Studio Final Code\CsvStringProcessing\CsvStringProcessing\main.c(58,25): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Dropbox\Coursera Comp Think\3 Functions\Module 2 Strings\Lesson 1 Strings\Lecture Code\2 1 7 Visual Studio Final Code\CsvStringProcessing\CsvStringProcessing\main.c(100,25): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+  CsvStringProcessing.vcxproj -> D:\Dropbox\Coursera Comp Think\3 Functions\Module 2 Strings\Lesson 1 Strings\Lecture Code\2 1 7 Visual Studio Final Code\CsvStringProcessing\Debug\CsvStringProcessing.exe
